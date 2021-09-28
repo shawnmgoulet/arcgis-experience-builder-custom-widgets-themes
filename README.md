@@ -17,5 +17,3 @@ An Experience Builder custom widgets and themes sample repo.
 ```
 
 2. Within your repo, any custom widgets must live within a `widgets` child directory. Similarly, any custom themes must live within a `themes` child directory.
-
-3.
