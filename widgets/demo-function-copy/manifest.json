@@ -1,0 +1,20 @@
+{
+  "name": "demo-function-copy",
+  "label": "Demo Function Copy",
+  "type": "widget",
+  "version": "1.5.0",
+  "exbVersion": "1.5.0",
+  "author": "Esri R&D Center Beijing",
+  "description": "This is a copy of the `demo-function` widget included in the https://github.com/Esri/arcgis-experience-builder-sdk-resources repo.",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {},
+  "translatedLocales": [
+    "en",
+    "zh-cn"
+  ],
+  "defaultSize": {
+    "width": 800,
+    "height": 500
+  }
+}

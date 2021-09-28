@@ -1,0 +1,16 @@
+{
+  "name": "demo-theme-copy",
+  "label": "Demo Theme Copy",
+  "type": "theme",
+  "thumbnails ": [],
+  "version": "1.5.0",
+  "exbVersion": "1.5.0",
+  "author": "Esri R&D Center Beijing",
+  "description": "This is a copy of the demo theme from the https://github.com/Esri/arcgis-experience-builder-sdk-resources repo containing all customizable theme variables containing the minimal required files to create a custom theme",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "translatedLocales": [
+    "en",
+    "zh-cn"
+  ]
+}
