@@ -1,10 +1,10 @@
-# ArcGIS Experience Builder Custom Widgets & Themes Repo
+# ArcGIS Experience Builder Custom Widgets & Themes
 
 An Experience Builder custom widgets and themes sample repo.
 
 ## What's important
 
-1. The key to the repo is that at it's root, it has a `manifest.json` file. The below properties (within this repo's `manifest.json`) are necessary for your repo to be integrated in your development environment's `client` directory and its webpack compile. Comments pertaining to necessary properties and values are included below.
+1. The key to the repo is that, at it's root, it has a `manifest.json` file. The below properties (within this repo's `manifest.json`) are necessary for your repo to be integrated in your development environment's `client` directory and its webpack compile. Comments pertaining to necessary properties and values are included below.
 
 ```json
 {
